@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! This is Surendar Jaisankar and I'm a Software Developer, from Tamil Nadu, India</h2>
 
 ###
-d
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
