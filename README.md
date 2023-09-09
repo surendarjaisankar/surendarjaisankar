@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! This is Surendar Jaisankar and I'm a Software Developer, from Tamil Nadu, India</h2>
+<h2 align="left">Surendar Jaisankar</h2>
+<h2>Software Engineer</h2>
 
 ###
 
